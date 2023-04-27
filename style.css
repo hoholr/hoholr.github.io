@@ -10,5 +10,6 @@
 /* cookie consent */
 .opacity-1{opacity: 1!important;}
 
-/* gallery */
+/* cursors */
 .gallery{cursor: zoom-in!important;}
+[onclick="revealAddress(this)"]{cursor: pointer!important;}
