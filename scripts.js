@@ -29,4 +29,10 @@
     $('#galModal img#galImg').attr('src','');
   });
 
-
+//EMAIL REVEAL
+  function revealAddress(r){
+      var address = $(r).data('address');
+      $(r).text(address).append("@diamond-congress.hu");
+      $(r).attr("href","mailto:"+address+"@diamond-congress.hu");
+      console.log(address);
+    }
