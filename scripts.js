@@ -29,8 +29,4 @@
     $('#galModal img#galImg').attr('src','');
   });
 
-//EMAIL REVEAL
-function revealAddress(r){
-    $(r).text("ildikokruppa").append("@diamond-congress.hu");
-    $(r).attr("href","mailto:ildikokruppa@diamond-congress.hu");
-  }
+
