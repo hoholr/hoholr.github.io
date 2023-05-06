@@ -35,3 +35,5 @@
       $(r).text(address).append("@diamond-congress.hu");
       $(r).attr("href","mailto:"+address+"@diamond-congress.hu");
     }
+
+console.log("hoholr.github.io");
