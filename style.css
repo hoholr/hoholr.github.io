@@ -1,5 +1,7 @@
 /* színek */
 .badge-pink{background:#f3b9dc;}
+.text-yellow{color:#F1F500!important;}
+.bg-yellow{background:#F1F500!important;}
 
 /* méretek */
 .text-l{font-size:130%}.text-xl{font-size:160%}.text-xxl{font-size:200%}
