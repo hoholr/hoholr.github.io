@@ -16,3 +16,5 @@
 .gallery{cursor: zoom-in!important;}
 [onclick]{cursor: pointer!important;}
 
+/* stílusok */
+.line-through{text-decoration: line-through;}
